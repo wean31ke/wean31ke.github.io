@@ -1,0 +1,6 @@
+<!--Author: koddostu.com-->
+<!--Licence: GNU GPL V2.0-->
+<!--Name: Siteye Güncel Döviz Kurları Kodu-->
+<div id="koddostu_com_doviz_kur"></div>
+<script async="true" src="https://www.koddostu.com/kdjs/doviz.php?birimler=USD,EUR&tema=4"></script>
+<script src="https://www.koddostu.com/duzelt.js?no=353"></script>
